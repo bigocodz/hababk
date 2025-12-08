@@ -166,10 +166,7 @@ const App: React.FC = () => {
             <span>·</span>
             <span className="hover:underline cursor-pointer">{t('sitemap')}</span>
           </div>
-          <div className="flex gap-4">
-            <span className="font-medium">English (US)</span>
-            <span className="font-medium">$ USD</span>
-          </div>
+
         </div>
       </footer>
     </div>
